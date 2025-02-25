@@ -1,6 +1,10 @@
 # YandexGPTBot
 Telegram бо́т помогает подготовить ответ на экзаменационный вопрос по дисциплине «Операционные системы».
 
+## Link to a video file with a recording of the bot deployment and testing.
+
+[Video with a recording of the bot deployment and testing](https://disk.yandex.ru/i/KO0Ztfj8H0ndGw)
+
 ### Инструкция по работе с YandexGPT API
 
 #### 1. Описание API
